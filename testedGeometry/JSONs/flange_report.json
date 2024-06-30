@@ -1,0 +1,60 @@
+{
+    "filename": "D:/AmrEmadDev/dev/flange.stl",
+    "volume": 1.5623103658937495e-05,
+    "surface_area": 0.007302919160551596,
+    "center_of_mass": [
+        2.4269057049708416e-06,
+        -0.002070803990632422,
+        -0.009866974676613884
+    ],
+    "bounding_box": {
+        "min_bounds": [
+            -0.026009300723671913,
+            -0.027499999850988388,
+            -0.023749999701976776
+        ],
+        "max_bounds": [
+            0.026009300723671913,
+            0.02250000089406967,
+            0.002250140067189932
+        ]
+    },
+    "surface_normals": {
+        "outward_facing": 6468,
+        "inward_facing": 0
+    },
+    "min_area": {
+        "value": 8.662954382202593e-08,
+        "units": "square meters"
+    },
+    "max_area": {
+        "value": 3.4605959361305727e-06,
+        "units": "square meters"
+    },
+    "min_edge_length": {
+        "value": 0.0003801533158149261,
+        "units": "meters"
+    },
+    "max_edge_length": {
+        "value": 0.0037901426668578665,
+        "units": "meters"
+    },
+    "min_aspect_ratio": 1.0341935409771588,
+    "max_aspect_ratio": 3.7309765462235815,
+    "inside_point": {
+        "coordinates": [
+            -0.003606012276730191,
+            -0.005679243173067583,
+            -0.013475413859049046
+        ],
+        "units": "meters"
+    },
+    "outside_point": {
+        "coordinates": [
+            0.04870954517145791,
+            0.04663631427512052,
+            0.03884014358913906
+        ],
+        "units": "meters"
+    }
+}
